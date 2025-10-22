@@ -75,8 +75,8 @@ Achieves high accuracy on normal tissue, with room for improvement on adenocarci
      requirements.txt
      README.md
     .gitignore
-    lung_colon_image_set/ # (NOT in GitHub, kept locally)
-    lung_cancer_cnn_model.h5 # (model file, kept locally)
+     lung_colon_image_set/ # (NOT in GitHub, kept locally)
+     lung_cancer_cnn_model.h5 # (model file, kept locally)
 
 ---
 
