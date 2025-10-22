@@ -81,8 +81,6 @@ Achieves high accuracy on normal tissue, with room for improvement on adenocarci
 ---
 
 ## References
-
-- GeeksforGeeks: [Lung Cancer Detection using CNN](https://www.geeksforgeeks.org/deep-learning/lung-cancer-detection-using-convolutional-neural-network-cnn/)
 - Kaggle: [Lung and Colon Cancer Histopathological Images Dataset](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
 - TensorFlow, Keras Documentation
 
